@@ -1,6 +1,6 @@
-# Api Web com ASP.NET + SqlServer + Swagger
+# API Web com ASP.NET + SqlServer + Swagger
 
-### Esta api retorna uma lista de clientes simples
+### Esta API retorna uma lista de clientes simples
 
 * GET
 * POST
