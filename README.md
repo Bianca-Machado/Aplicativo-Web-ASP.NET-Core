@@ -10,4 +10,4 @@
 
 
 
-![Arquivo em WinRAR devido ao tamanho do projeto]
+'''Arquivo em WinRAR devido ao tamanho do projeto'''
